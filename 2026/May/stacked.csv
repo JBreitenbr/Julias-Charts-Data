@@ -1,11 +1,11 @@
-vormittags,nachmittags,abends,nachts,group,gesamt
-184.73,471.86,352.1,34.65,Van Der Graaf Generator,1043.34
-195.68,160.35,384.46,18.94,Franco Battiato,759.43
-163.53,304.53,267.85,7.02,Kajagoogoo,742.93
-149.81,407.1,144.55,139.58,Yes,841.04
-150.6,73.62,174.69,66.12,King Crimson,465.03
-123.94,203.2,110.36,21.61,New Order,459.11
-96.52,105.63,78.5,107.75,Premiata Forneria Marconi,388.4
-84.21,169.44,40.92,10.41,Depeche Mode,304.98
-98.99,87.36,26.68,58.41,Banco Del Mutuo Soccorso,271.44
-46.78,47.0,95.57,29.28,The Dandy Warhols,218.63
+artist_score,vormittags,nachmittags,abends,nachts,group,gesamt
+1000.08,184.73,471.86,352.1,34.65,Van Der Graaf Generator,1043.34
+963.66,195.68,160.35,384.46,18.94,Franco Battiato,759.43
+908.13,163.53,304.53,267.85,7.02,Kajagoogoo,742.93
+898.61,149.81,407.1,144.55,139.58,Yes,841.04
+587.92,150.6,73.62,174.69,66.12,King Crimson,465.03
+570.75,123.94,203.2,110.36,21.61,New Order,459.11
+515.13,96.52,105.63,78.5,107.75,Premiata Forneria Marconi,388.4
+401.93,84.21,169.44,40.92,10.41,Depeche Mode,304.98
+366.5,98.99,87.36,26.68,58.41,Banco Del Mutuo Soccorso,271.44
+329.3,46.78,47.0,95.57,29.28,The Dandy Warhols,218.63
